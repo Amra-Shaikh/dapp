@@ -1,6 +1,3 @@
-Here's a GitHub README template for a **Decentralized Application (DApp)** built with technologies typically used in blockchain-based projects, like Ethereum and Web3.js.
-
----
 
 # DApp Project Name
 
